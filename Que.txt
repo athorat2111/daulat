@@ -1,0 +1,24 @@
+1. Implementations of system call.
+    a.CreateFile()
+    b.ReadFile()
+    c.WriteFile()
+    d.CloseHandle()
+2.Implementation of following scripting program
+    a.QuickSort
+    b.Palindrome
+    c.String Reverse 
+    d.PrimeNo
+3.Implement multithreading for matrix operations using Threads
+4.Implement of Dining Philosopher problem using semaphor.
+5.Implement producer consumer problem for synchronisation.
+6.Write a program to compute Finish time,turnaround time,waiting time.
+    a.FCFS(non premptive)
+    b.SRTF(premptive)
+    c.priority Scheduling algorithm(premptive)(lower no ,higher priority).
+7.Write a program to compute the Finish time,turnaround time,waiting time.
+    a.Round Robin
+    b.priority Scheduling algorithm(premptive)(higher no ,higher priority).
+8.Implementation of bankers algorithm(must find safe sequence).
+9.Implement of multithreading program for 3 moving balls(1st - high speed, 
+    2ed-medium speed, 3rd-slow speed,unless and until first ball reaches to end 2ed )wont start moving
+    and once 2ed has completed 3rd will move)

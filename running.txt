@@ -1,0 +1,6 @@
+Threading program/semaphor.(Dining,matrix)
+ gcc filename.c -o thread -lpthread
+ ./thread
+
+shell scripting program
+sudo bash ./filename.sh
